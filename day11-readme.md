@@ -76,7 +76,7 @@ Yahan tum define kar sakte ho koi bhi repeating task jo agent **automatically** 
 ### Jo Observe Kiya:
 | Action | Expected | Actual |
 |---|---|---|
-| Abusive message ("aby loru gandu") | Reply | ❌ No reply |
+| Abusive message ("aby Ullu k patthayyy") | Reply | ❌ No reply |
 | Name poocha | Reply | ✅ "I am Jarvis" |
 
 ### Kyun?
